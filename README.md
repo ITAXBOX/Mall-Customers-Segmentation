@@ -17,12 +17,6 @@
    - [Modeling](#modeling)
 6. [Results](#results)
 7. [Future Work](#future-work)
-8. [Installation](#installation)
-9. [Usage](#usage)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Acknowledgments](#acknowledgments)
-13. [Contact](#contact)
 
 ---
 
